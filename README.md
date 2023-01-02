@@ -19,4 +19,4 @@ Tout les commit fait depuis celui ci ne seront ensuite pas garder par Git. C'est
 
 Résolution de conflits : 
 - Si les repos local et distants sont divergeants après avoir pull le repo distant, alors qu'on a fait des modifications en local, on a un conflit. 
-Pour le résoudre, on peut ouvrir le/les fichiers correspondants via la ligne de commande (ou a l'aide d'un éditeur graphique) et choisir les modifications qu'on veut garder ou non. Une fois fini, on peut renvoyer le fichier avec les modifications effectués. Le conflit est alors résolu. 
+Pour le résoudre, on peut ouvrir le/les fichiers correspondants via la ligne de commande (ou a l'aide d'un éditeur graphique) et choisir les modifications qu'on veut garder ou non. Cela se fait dans un commit dit de "merge". Une fois fini, on peut renvoyer le(s) fichier(s) avec les modifications effectués. Le conflit est alors résolu. 

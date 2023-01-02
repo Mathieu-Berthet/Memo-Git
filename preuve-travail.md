@@ -43,3 +43,13 @@ Date:   Wed Dec 21 11:23:01 2022 +0100
 ~
 ~
 ~
+
+
+
+
+
+#########################################
+Git jour 2 : 
+ Lien vers le repo pour l'exercice en groupe
+https://github.com/MalikAza/git-cda-2023-sample
+
